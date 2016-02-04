@@ -13,8 +13,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
     }
 
 
+    // Add function to make it i'm poor now
+    func poorMeth(){
+        
+        return
+    }
+    
 }
 
